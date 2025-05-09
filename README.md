@@ -20,7 +20,7 @@ Stroke is the third leading cause of death in the world. Early detection and int
 
 ## Models Evaluated
 
-| Model                | Accuracy | F1 Score | AUC    |
+| Model               | Accuracy | F1 Score | AUC    |
 |---------------------|----------|----------|--------|
 | Logistic Regression | 0.79     | 0.68     | 0.8548 |
 | Random Forest       | 0.99     | 0.99     | 0.9998 |
@@ -28,6 +28,7 @@ Stroke is the third leading cause of death in the world. Early detection and int
 | K-Nearest Neighbors | 0.97     | 0.96     | 0.9906 |
 | Gradient Boosting   | 0.91     | 0.88     | 0.9697 |
 | Decision Tree       | 0.98     | 0.97     | 0.9872 |
+| Neural Network      | 0.92     | 0.92     | 0.9673 |
 
 **Random Forest** was selected for deployment due to superior balance across metrics.
 
