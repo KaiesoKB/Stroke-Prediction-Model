@@ -63,5 +63,5 @@ Built with Flask. Users enter patient information and receive a stroke risk prob
 - 🔴 High Risk
 
 Inputs are validated and scaled before prediction using the same scaler and model from the notebook.
-
+[Stroke Application repository](https://github.com/BrandyRumRum/Stroke-Application)
 ---
