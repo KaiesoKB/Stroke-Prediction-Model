@@ -7,6 +7,7 @@ This project utlizes machine learning to predict stroke risk based on patient cl
 ## Project Structure
 
 - `cerebralstroke.ipynb` – Jupyter Notebook with full ML pipeline
+- `diagrams.ipynb` – Jupyter Notebook with some visualizations
 - `cleaned.csv` – Preprocessed dataset (one-hot encoded)
 - `dataset.csv` – Raw dataset
 
