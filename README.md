@@ -8,12 +8,7 @@ This project leverages machine learning to predict stroke risk based on patient 
 
 - `cerebralstroke.ipynb` – Jupyter Notebook with full ML pipeline
 - `cleaned.csv` – Preprocessed dataset (one-hot encoded)
-- `random_forest_model.pkl` – Trained model
-- `scaler.pkl` – Scaler used for input normalization
-- `stroke_application/` – Flask app folder
-  - `app.py` – Flask backend logic
-  - `templates/index.html` – Frontend form
-  - `static/style.css` – Responsive, dark-themed styling
+- `dataset.csv` – Raw dataset
 
 ---
 
