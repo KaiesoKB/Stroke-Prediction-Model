@@ -1,6 +1,6 @@
-## Stroke Prediction Using Machine Learning
+## Identifying Risk Factors and Stroke Prediction Using Machine Learning
 
-This project utlizes machine learning to predict stroke risk based on patient clinical and lifestyle data. It involves a trained Random Forest model and an interactive web interface built with Flask.
+This project utlizes machine learning to predict stroke risk based on patient clinical and lifestyle data and determine the major risk factors. It involves various trained models and an interactive web interface built with Flask.
 
 ---
 
