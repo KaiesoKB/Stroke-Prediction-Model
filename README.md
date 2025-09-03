@@ -66,3 +66,10 @@ Built with Flask. Users enter patient information and receive a stroke risk prob
 Inputs are validated and scaled before prediction using the same scaler and model from the notebook.
 - [Stroke Application repository](https://github.com/BrandyRumRum/Stroke-Application)
 ---
+
+## 🧠 Stroke Prediction Model  
+
+A machine learning project to predict stroke risk using healthcare data.  
+Built and deployed as part of a team project with multiple ML models evaluated.  
+
+🚀 **Live Demo:** [Stroke Prediction App](https://stroke-prediction-applicaiton.onrender.com/)  
